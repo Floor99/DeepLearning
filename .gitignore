@@ -161,3 +161,5 @@ cython_debug/
 
 # For apple users
 .DS_Store
+
+DL/dl/data/
